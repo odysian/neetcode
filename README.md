@@ -1,1 +1,3 @@
 # neetcode
+
+## Arrays and Hashing
